@@ -12,9 +12,7 @@
 
 <br />
 
-### Demo Screeshots
 
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
